@@ -20,7 +20,7 @@ public class Database {
 	private static final String jdbcPassword = "tlq370ri";
 
 	public void connect() {
-		// Connect to database here
+		// Connect to database here Prov
 	}
 
 	// TODO: Implement and change output in all methods below!
