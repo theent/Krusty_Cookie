@@ -14,12 +14,13 @@ import java.util.TreeMap;
 import static krusty.Jsonizer.toJson;
 
 public class Database {
-	/**
-	 * Modify it to fit your environment and then use this string when connecting to your database!
-	 */
+
 
 	private Connection conn;
 
+	/**
+	 * Modify it to fit your environment and then use this string when connecting to your database!
+	 */
 	//private static final String jdbcString = "jdbc:mysql://localhost/krusty";
 	private static final String jdbcString = "jdbc:mysql://puccini.cs.lth.se/" + "db18";
 
